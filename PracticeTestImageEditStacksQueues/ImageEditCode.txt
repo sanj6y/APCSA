@@ -1,0 +1,65 @@
+
+	public Pixel [][] doubleBlueInTopHalf(Pixel [][] array) 
+	{
+		Pixel [][] imagearrayResult = new Pixel[array.length][array[0].length];
+		int r = 0, g = 0, b = 0;
+		for(int i = 0; i < row; i++)
+		{
+			for(int j = 0; j < column; j++)
+			{
+				r = array[i][j].getRed();
+				g = array[i][j].getGreen();
+				b = array[i][j].getBlue();
+				if(i < row / 2)
+				{
+					imagearrayResult[i][j] = new Pixel(r,g,Math.min(255, 2 * b));
+				}
+				else
+				{
+					imagearrayResult[i][j] = new Pixel(r,g,b);
+				}
+			}
+		}
+		return imagearrayResult;
+	}
+	
+	public Pixel [][] reduce(Pixel [][] array, double fraction) 
+	{
+		Pixel [][] imagearrayResult = new Pixel[(int)(array.length * fraction)][(int)(array[0].length * fraction)];
+		int r = 0, g = 0, b = 0;
+		for(int i = 0; i < imagearrayResult.length; i++)
+		{
+			for(int j = 0; j < imagearrayResult[i].length; j++)
+			{
+				imagearrayResult[i][j] = array[(int)(i / fraction)][(int)(j / fraction)];
+			}
+		}
+		return imagearrayResult;
+	}
+	
+	public Pixel [][] flipHorzVert (Pixel [][] array) 
+	{
+		Pixel [][] imagearrayResult = new Pixel[array.length][array[0].length];
+		for(int i = 0; i < imagearrayResult.length; i++)
+		{
+			for(int j = 0; j < imagearrayResult[i].length; j++)
+			{
+				imagearrayResult[i][j] = array[row - 1 - i][column - 1 - j];
+			}
+		}
+		return imagearrayResult;
+	}
+	
+	public Pixel [][] shiftTopToBot (Pixel [][] array)
+	{
+		Pixel [][] imagearrayResult = new Pixel[array.length][array[0].length];
+		for(int i = 0; i < imagearrayResult.length; i++)
+		{
+			for(int j = 0; j < imagearrayResult[i].length; j++)
+			{
+				imagearrayResult[i][j] = array[(i + row / 2) % row][j];
+			}
+		}
+		return imagearrayResult;
+	}
+	
