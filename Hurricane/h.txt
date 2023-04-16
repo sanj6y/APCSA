@@ -1,0 +1,61 @@
+09/10/1989,   12:00 GMT,  13.2,   20.0,   30 mph,  1010 mb,  Tropical Depression
+09/10/1989, 18:00 GMT,  13.3,  21.8,   30 mph,  1010 mb,  Tropical Depression
+09/11/1989, 00:00 GMT,  13.2, 23.7,   35 mph,  1009 mb,  Tropical Depression
+09/11/1989,   06:00 GMT,  13.0,  25.5,   35 mph,  1007 mb,  Tropical Depression
+09/11/1989,   12:00 GMT,  12.8,   27.3,   35 mph,  1005 mb,  Tropical Depression
+09/11/1989, 18:00 GMT,  12.5,  29.2,   40 mph,  1003 mb,  Tropical Storm
+09/12/1989,  00:00 GMT,  12.5,  31.0,   45 mph,  1002 mb,  Tropical Storm
+09/12/1989,   06:00 GMT,  12.5,  32.9,   50 mph,  1000 mb,  Tropical Storm
+09/12/1989, 12:00 GMT,  12.5,  34.8,   50 mph,   998 mb,  Tropical Storm
+09/12/1989,   18:00 GMT,  12.6, 36.7,   60 mph,   996 mb,  Tropical Storm
+09/13/1989,   00:00 GMT,  12.6,  38.2,   65 mph,   994 mb,  Tropical Storm
+09/13/1989,   06:00 GMT,  12.7,   40.0,   65 mph,   992 mb,  Tropical Storm
+09/13/1989, 12:00 GMT,  12.8,  41.8,   70 mph,   990 mb,  Tropical Storm
+09/13/1989, 18:00 GMT,  12.8, 43.5,   75 mph,   987 mb,  Category 1 Hurricane
+09/14/1989,  00:00 GMT,  12.9,  44.9,   80 mph,   984 mb,  Category 1 Hurricane
+09/14/1989,  06:00 GMT,  13.0,   46.3,   90 mph,   980 mb,  Category 1 Hurricane
+09/14/1989,   12:00 GMT,  13.2, 47.8,  100 mph,   975 mb,  Category 2 Hurricane
+09/14/1989,  18:00 GMT,  13.6,   49.1,  105 mph,   970 mb,  Category 2 Hurricane
+09/15/1989, 00:00 GMT,  13.8,  50.5,  115 mph,   962 mb,  Major Hurricane
+09/15/1989,   06:00 GMT,  14.0,  51.9,  125 mph,   957 mb,  Major Hurricane
+09/15/1989,  12:00 GMT,  14.2,  53.3,  145 mph,   940 mb,  Major Hurricane
+09/15/1989, 18:00 GMT,  14.6,  54.6,  160 mph,   918 mb,  Major Hurricane
+09/16/1989, 00:00 GMT,  14.8, 56.1,  155 mph,   923 mb,  Major Hurricane
+09/16/1989,   06:00 GMT,  15.1,   57.3,  150 mph,   927 mb,  Major Hurricane
+09/16/1989,   12:00 GMT,  15.4,  58.4,  140 mph,   940 mb,  Major Hurricane
+09/16/1989, 18:00 GMT,  15.8,  59.4,  140 mph,   941 mb,  Major Hurricane
+09/17/1989,  00:00 GMT,  16.1,  60.4,  140 mph,   941 mb,  Major Hurricane
+09/17/1989,   06:00 GMT,  16.4,  61.5,  140 mph,   943 mb,  Major Hurricane
+09/17/1989, 12:00 GMT,  16.6,  62.5,  145 mph,   949 mb,  Major Hurricane
+09/17/1989, 18:00 GMT,  16.9, 63.5,  145 mph,   945 mb,  Major Hurricane
+09/18/1989,  00:00 GMT,  17.2,   64.1,  150 mph,   934 mb,  Major Hurricane
+09/18/1989,  06:00 GMT,  17.7,  64.8,  140 mph,   940 mb,  Major Hurricane
+09/18/1989,   12:00 GMT,  18.2,  65.5,  125 mph,   945 mb,  Major Hurricane
+09/18/1989,   18:00 GMT,  19.1, 66.4,  120 mph,   958 mb,  Major Hurricane
+09/19/1989, 00:00 GMT,  19.7,  66.8,  115 mph,   959 mb,  Major Hurricane
+09/19/1989,  06:00 GMT,  20.7,  67.3,  105 mph,   962 mb,  Category 2 Hurricane
+09/19/1989,   12:00 GMT,  21.6,  68.0,  105 mph,   964 mb,  Category 2 Hurricane
+09/19/1989,  18:00 GMT,  22.6,  68.6,  105 mph,   966 mb,  Category 2 Hurricane
+09/20/1989, 00:00 GMT,  23.5,  69.3,  105 mph,   957 mb,  Category 2 Hurricane
+09/20/1989,   06:00 GMT,  24.4,   70.1,  105 mph,   957 mb,  Category 2 Hurricane
+09/20/1989,   12:00 GMT,  25.2,  71.0,  110 mph,   958 mb,  Category 2 Hurricane
+09/20/1989,   18:00 GMT,  26.3,   72.2,  110 mph,   953 mb,  Category 2 Hurricane
+09/21/1989, 00:00 GMT,  27.2,  73.4,  115 mph,   950 mb,  Major Hurricane
+09/21/1989, 06:00 GMT,  28.0, 74.9,  115 mph,   950 mb,  Major Hurricane
+09/21/1989,  12:00 GMT,  29.0,  76.1,  125 mph,   948 mb,  Major Hurricane
+09/21/1989,  18:00 GMT,  30.2,   77.5,  140 mph,   944 mb,  Major Hurricane
+09/22/1989,   00:00 GMT,  31.7, 78.8,  140 mph,   935 mb,  Major Hurricane
+09/22/1989,   06:00 GMT,  33.5,   80.3,  100 mph,   952 mb,  Category 2 Hurricane
+09/22/1989,  12:00 GMT,  35.9,  81.7,   65 mph,   975 mb,  Tropical Storm
+09/22/1989, 18:00 GMT,  38.5,  81.8,   45 mph,   987 mb,  Tropical Storm
+09/23/1989,   00:00 GMT,  42.2,  80.2,   40 mph,   988 mb,  Extratropical Storm
+09/23/1989,  06:00 GMT,  46.0,  74.5,   45 mph,   990 mb,  Extratropical Storm
+09/23/1989,   12:00 GMT,  49.0,   69.0,   45 mph,   992 mb,  Extratropical Storm
+09/23/1989,   18:00 GMT,  51.0,  65.0,   45 mph,   993 mb,  Extratropical Storm
+09/24/1989,  00:00 GMT,  52.0,  62.0,   45 mph,   994 mb,  Extratropical Storm
+09/24/1989, 06:00 GMT,  52.5,  60.5,   45 mph,   993 mb,  Extratropical Storm
+09/24/1989, 12:00 GMT,  53.0,  59.5,   45 mph,   991 mb,  Extratropical Storm
+09/24/1989,   18:00 GMT,  53.5,   58.5,   45 mph,   989 mb,  Extratropical Storm
+09/25/1989,   00:00 GMT,  54.0,  57.0,   45 mph,   983 mb,  Extratropical Storm
+09/25/1989,  06:00 GMT,  56.0,  52.0,   45 mph,   979 mb,  Extratropical Storm
+09/25/1989, 12:00 GMT,  58.0, 46.0,   45 mph,   974 mb,  Extratropical Storm 

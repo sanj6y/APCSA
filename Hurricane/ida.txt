@@ -1,0 +1,64 @@
+8/26/2021,	11 GMT,	16.90,	79.20,	35 mph,	1005 mb,	Tropical Depression
+8/26/2021,	14 GMT,	17.50,	79.50,	35 mph,	1005 mb,	Tropical Depression
+8/26/2021,	17 GMT,	18.00,	79.80,	35 mph,	1006 mb,	Tropical Depression
+8/26/2021,	17:20 GMT,	18.00,	79.80,	40 mph,	1006 mb,	Tropical Storm
+8/26/2021,	20 GMT,	18.00,	80.10,	40 mph,	1006 mb,	Tropical Storm
+8/26/2021,	23:00 GMT,	18.60,	80.50,	40 mph,	1006 mb,	Tropical Storm
+8/27/2021,	2:00 GMT,	19.40,	80.90,	40 mph,	1006 mb,	Tropical Storm
+8/27/2021,	5:00 GMT,	20.00,	81.40,	46 mph,	1001 mb,	Tropical Storm
+8/27/2021,	8:00 GMT,	20.30,	81.70,	58 mph,	996 mb,	Tropical Storm
+8/27/2021,	11:00 GMT,	20.70,	82.10,	63 mph,	996 mb,	Tropical Storm
+8/27/2021,	13:15 GMT,	21.40,	82.40,	75 mph,	987 mb,	Category 1 Hurricane
+8/27/2021,	14:00 GMT,	21.60,	82.70,	75 mph,	987 mb,	Category 1 Hurricane
+8/27/2021,	17:00 GMT,	22.10,	83.20,	81 mph,	985 mb,	Category 1 Hurricane
+8/27/2021,	19:25 GMT,	22.30,	83.30,	81 mph,	985 mb,	Category 1 Hurricane
+8/27/2021,	20:00 GMT,	22.40,	83.50,	81 mph,	985 mb,	Category 1 Hurricane
+8/27/2021,	23:00 GMT,	23.00,	84.00,	81 mph,	989 mb,	Category 1 Hurricane
+8/28/2021,	2:00 GMT,	23.50,	84.70,	81 mph,	987 mb,	Category 1 Hurricane
+8/28/2021,	4:00 GMT,	24.00,	85.20,	81 mph,	987 mb,	Category 1 Hurricane
+8/28/2021,	7:00 GMT,	24.40,	85.70,	86 mph,	985 mb,	Category 1 Hurricane
+8/28/2021,	10:00 GMT,	24.80,	86.10,	86 mph,	984 mb,	Category 1 Hurricane
+8/28/2021,	13:00 GMT,	25.50,	86.60,	98 mph,	976 mb,	Category 2 Hurricane
+8/28/2021,	16:00 GMT,	26.20,	87.00,	104 mph,	976 mb,	Category 2 Hurricane
+8/28/2021,	19:00 GMT,	26.60,	87.50,	104 mph,	969 mb,	Category 2 Hurricane
+8/28/2021,	22:00 GMT,	27.20,	88.00,	104 mph,	964 mb,	Category 2 Hurricane
+8/29/2021,	1:00 GMT,	27.60,	88.70,	115 mph,	955 mb,	Category 3 Major Hurricane
+8/29/2021,	2:00 GMT,	27.70,	88.80,	132 mph,	949 mb,	Category 4 Major Hurricane
+8/29/2021,	3:00 GMT,	27.90,	89.00,	132 mph,	948 mb,	Category 4 Major Hurricane
+8/29/2021,	4:00 GMT,	28.00,	89.10,	138 mph,	946 mb,	Category 4 Major Hurricane
+8/29/2021,	5:00 GMT,	28.20,	89.30,	144 mph,	946 mb,	Category 4 Major Hurricane
+8/29/2021,	6:00 GMT,	28.30,	89.40,	150 mph,	935 mb,	Category 4 Major Hurricane
+8/29/2021,	7:00 GMT,	28.50,	89.60,	150 mph,	933 mb,	Category 4 Major Hurricane
+8/29/2021,	8:00 GMT,	28.60,	89.70,	150 mph,	930 mb,	Category 4 Major Hurricane
+8/29/2021,	9:00 GMT,	28.70,	89.80,	150 mph,	930 mb,	Category 4 Major Hurricane
+8/29/2021,	10:00 GMT,	28.80,	90.00,	150 mph,	933 mb,	Category 4 Major Hurricane
+8/29/2021,	11:00 GMT,	28.90,	90.10,	150 mph,	933 mb,	Category 4 Major Hurricane
+8/29/2021,	11:55 GMT,	29.10,	90.20,	150 mph,	930 mb,	Category 4 Major Hurricane
+8/29/2021,	13:00 GMT,	29.20,	90.30,	150 mph,	930 mb,	Category 4 Major Hurricane
+8/29/2021,	14:00 GMT,	29.30,	90.40,	144 mph,	934 mb,	Category 4 Major Hurricane
+8/29/2021,	15:00 GMT,	29.40,	90.50,	138 mph,	937 mb,	Category 4 Major Hurricane
+8/29/2021,	16:00 GMT,	29.50,	90.60,	132 mph,	938 mb,	Category 4 Major Hurricane
+8/29/2021,	17:00 GMT,	29.60,	90.60,	132 mph,	938 mb,	Category 4 Major Hurricane
+8/29/2021,	18:00 GMT,	29.70,	90.50,	127 mph,	941 mb,	Category 3 Major Hurricane
+8/29/2021,	19:00 GMT,	29.90,	90.50,	121 mph,	944 mb,	Category 3 Major Hurricane
+8/29/2021,	20:00 GMT,	30.00,	90.60,	115 mph,	947 mb,	Category 3 Major Hurricane
+8/29/2021,	21:00 GMT,	30.10,	90.60,	109 mph,	950 mb,	Category 2 Hurricane
+8/29/2021,	22:00 GMT,	30.30,	90.70,	104 mph,	953 mb,	Category 2 Hurricane
+8/29/2021,	23:00 GMT,	30.40,	90.70,	98 mph,	960 mb,	Category 2 Hurricane
+8/30/2021,	12:00 GMT,	30.50,	90.70,	86 mph,	966 mb,	Category 1 Hurricane
+8/30/2021,	1:00 GMT,	30.60,	90.80,	75 mph,	972 mb,	Category 1 Hurricane
+8/30/2021,	4:00 GMT,	31.00,	90.80,	58 mph,	990 mb,	Tropical Storm
+8/30/2021,	7:00 GMT,	31.50,	90.80,	46 mph,	993 mb,	Tropical Storm
+8/30/2021,	10:00 GMT,	31.90,	90.70,	40 mph,	996 mb,	Tropical Storm
+8/30/2021,	13:00 GMT,	32.20,	90.50,	40 mph,	997 mb,	Tropical Storm
+8/30/2021,	16:00 GMT,	32.60,	90.30,	35 mph,	999 mb,	Tropical Depression
+8/30/2021,	22:00 GMT,	33.30,	89.50,	35 mph,	998 mb,	Tropical Depression
+8/31/2021,	4:00 GMT,	34.10,	88.90,	29 mph,	998 mb,	Tropical Depression
+8/31/2021,	10:00 GMT,	35.00,	87.80,	29 mph,	996 mb,	Tropical Depression
+8/31/2021,	16:00 GMT,	35.50,	86.20,	23 mph,	999 mb,	Tropical Depression
+8/31/2021,	23:00 GMT,	36.20,	84.60,	29 mph,	1000 mb,	Tropical Depression
+9/1/2021,	5:00 GMT,	37.30,	82.50,	29 mph,	1000 mb,	Tropical Depression
+9/1/2021,	11:00 GMT,	38.30,	80.20,	29 mph,	1000 mb,	PostTropical Cyclone
+9/1/2021,	17:00 GMT,	39.70,	77.00,	35 mph,	999 mb,	PostTropical Cyclone
+9/1/2021,	23:00 GMT,	40.50,	74.30,	40 mph,	998 mb,	PostTropical Cyclone
+9/2/2021,	5:00 GMT,	41.40,	71.60,	40 mph,	998 mb,	PostTropical Cyclone

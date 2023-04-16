@@ -1,0 +1,47 @@
+08/16/1992, 18:00 GMT,  10.8,   35.5,   30 mph,  1010 mb,  Tropical Depression
+08/17/1992, 00:00 GMT,  11.2,  37.4,   35 mph,  1009 mb,  Tropical Depression
+08/17/1992,   06:00 GMT,  11.7,  39.6,   35 mph,  1008 mb,  Tropical Depression
+08/17/1992,  12:00 GMT,  12.3,  42.0,   40 mph,  1006 mb,  Tropical Storm
+08/17/1992, 18:00 GMT,  13.1,  44.2,   40 mph,  1003 mb,  Tropical Storm
+08/18/1992, 00:00 GMT,  13.6,   46.2,   45 mph,  1002 mb,  Tropical Storm
+08/18/1992,   06:00 GMT,  14.1,  48.0,   50 mph,  1001 mb,  Tropical Storm
+08/18/1992, 12:00 GMT,  14.6,  49.9,   50 mph,  1000 mb,  Tropical Storm
+08/18/1992,   18:00 GMT,  15.4,  51.8,   50 mph,  1000 mb,  Tropical Storm
+08/19/1992,  00:00 GMT,  16.3, 53.5,   50 mph,  1001 mb,  Tropical Storm
+08/19/1992,  06:00 GMT,  17.2,  55.3,   50 mph,  1002 mb,  Tropical Storm
+08/19/1992, 12:00 GMT,  18.0, 56.9,   50 mph,  1005 mb,  Tropical Storm
+08/19/1992, 18:00 GMT,  18.8,  58.3,   50 mph,  1007 mb,  Tropical Storm
+08/20/1992,   00:00 GMT,  19.8,  59.3,   45 mph,  1011 mb,  Tropical Storm
+08/20/1992,  06:00 GMT,  20.7,  60.0,   45 mph,  1013 mb,  Tropical Storm
+08/20/1992, 12:00 GMT,  21.7,  60.7,   45 mph,  1015 mb,  Tropical Storm
+08/20/1992,   18:00 GMT,  22.5,   61.5,   45 mph,  1014 mb,  Tropical Storm
+08/21/1992,   00:00 GMT,  23.2,  62.4,   50 mph,  1014 mb,  Tropical Storm
+08/21/1992,   06:00 GMT,  23.9,   63.3,   50 mph,  1010 mb,  Tropical Storm
+08/21/1992, 12:00 GMT,  24.4,  64.2,   60 mph,  1007 mb,  Tropical Storm
+08/21/1992, 18:00 GMT,  24.8, 64.9,   60 mph,  1004 mb,  Tropical Storm
+08/22/1992,  00:00 GMT,  25.3,  65.9,   65 mph,  1000 mb,  Tropical Storm
+08/22/1992,  06:00 GMT,  25.6,  67.0,   75 mph,   994 mb,  Category 1 Hurricane
+08/22/1992,   12:00 GMT,  25.8,  68.3,   90 mph,   981 mb,  Category 1 Hurricane
+08/22/1992, 18:00 GMT,  25.7,  69.7,  110 mph,   969 mb,  Category 2 Hurricane
+08/23/1992,  00:00 GMT,  25.6,  71.1,  125 mph,   961 mb,  Major Hurricane
+08/23/1992,   06:00 GMT,  25.5,  72.5,  150 mph,   947 mb,  Major Hurricane
+08/23/1992, 12:00 GMT,  25.4, 74.2,  165 mph,   933 mb,  Major Hurricane
+08/23/1992,  18:00 GMT,  25.4,  75.8,  175 mph,   922 mb,  Major Hurricane
+08/24/1992, 00:00 GMT,  25.4,  77.5,  145 mph,   930 mb,  Major Hurricane
+08/24/1992,   06:00 GMT,  25.4,   79.3,  150 mph,   937 mb,  Major Hurricane
+08/24/1992,   12:00 GMT,  25.6,  81.2,  135 mph,   951 mb,  Major Hurricane
+08/24/1992,   18:00 GMT,  25.8,   83.1,  135 mph,   947 mb,  Major Hurricane
+08/25/1992, 00:00 GMT,  26.2, 85.0,  135 mph,   943 mb,  Major Hurricane
+08/25/1992, 06:00 GMT,  26.6,  86.7,  135 mph,   948 mb,  Major Hurricane
+08/25/1992,   12:00 GMT,  27.2,  88.2,  140 mph,   946 mb,  Major Hurricane
+08/25/1992,  18:00 GMT,  27.8,  89.6,  145 mph,   941 mb,  Major Hurricane
+08/26/1992, 00:00 GMT,  28.5,  90.5,  145 mph,   937 mb,  Major Hurricane
+08/26/1992,   06:00 GMT,  29.2,  91.3,  140 mph,   955 mb,  Major Hurricane
+08/26/1992, 12:00 GMT,  30.1, 91.7,   90 mph,   973 mb,  Category 1 Hurricane
+08/26/1992,  18:00 GMT,  30.9,  91.6,   60 mph,   991 mb,  Tropical Storm
+08/27/1992, 00:00 GMT,  31.5,  91.1,   40 mph,   995 mb,  Tropical Storm
+08/27/1992,   06:00 GMT,  32.1,   90.5,   35 mph,   997 mb,  Tropical Depression
+08/27/1992,   12:00 GMT,  32.8,  89.6,   35 mph,   998 mb,  Tropical Depression
+08/27/1992, 18:00 GMT,  33.6,  88.4,   30 mph,   999 mb,  Tropical Depression
+08/28/1992,  00:00 GMT,  34.4,  86.7,   25 mph,  1000 mb,  Tropical Depression
+08/28/1992,   06:00 GMT,  35.4,   84.0,   25 mph,  1000 mb,  Tropical Depression 

@@ -1,0 +1,31 @@
+08/23/2005,   18:00 GMT,  23.1,   75.1,   35 mph,  1008 mb,  Tropical Depression
+08/24/2005, 00:00 GMT,  23.4,  75.7,   35 mph,  1007 mb,  Tropical Depression
+08/24/2005,   06:00 GMT,  23.8, 76.2,   35 mph,  1007 mb,  Tropical Depression
+08/24/2005, 12:00 GMT,  24.5, 76.5,   40 mph,  1006 mb,  Tropical Storm
+08/24/2005,  18:00 GMT,  25.4,  76.9,   45 mph,  1003 mb,  Tropical Storm
+08/25/2005, 00:00 GMT,  26.0, 77.7,   50 mph,  1000 mb,  Tropical Storm
+08/25/2005, 06:00 GMT,  26.1,  78.4,   60 mph,   997 mb,  Tropical Storm
+08/25/2005,   12:00 GMT,  26.2, 79.0,   65 mph,   994 mb,  Tropical Storm
+08/25/2005,   18:00 GMT,  26.2,   79.6,   70 mph,   988 mb,  Tropical Storm
+08/26/2005,   00:00 GMT,  25.9, 80.3,   80 mph,   983 mb,  Category 1 Hurricane
+08/26/2005, 06:00 GMT,  25.4,  81.3,   75 mph,   987 mb,  Category 1 Hurricane
+08/26/2005,   12:00 GMT,  25.1,  82.0,   85 mph,   979 mb,  Category 1 Hurricane
+08/26/2005, 18:00 GMT,  24.9,  82.6,  100 mph,   968 mb,  Category 2 Hurricane
+08/27/2005,   00:00 GMT,  24.6, 83.3,  105 mph,   959 mb,  Category 2 Hurricane
+08/27/2005,   06:00 GMT,  24.4,   84.0,  110 mph,   950 mb,  Category 2 Hurricane
+08/27/2005,  12:00 GMT,  24.4, 84.7,  115 mph,   942 mb,  Major Hurricane
+08/27/2005,  18:00 GMT,  24.5,  85.3,  115 mph,   948 mb,  Major Hurricane
+08/28/2005, 00:00 GMT,  24.8,  85.9,  115 mph,   941 mb,  Major Hurricane
+08/28/2005,   06:00 GMT,  25.2,  86.7,  145 mph,   930 mb,  Major Hurricane
+08/28/2005, 12:00 GMT,  25.7, 87.7,  165 mph,   909 mb,  Major Hurricane
+08/28/2005, 18:00 GMT,  26.3,  88.6,  175 mph,   902 mb,  Major Hurricane
+08/29/2005,   00:00 GMT,  27.2,  89.2,  160 mph,   905 mb,  Major Hurricane
+08/29/2005,  06:00 GMT,  28.2,  89.6,  145 mph,   913 mb,  Major Hurricane
+08/29/2005, 12:00 GMT,  29.5,  89.6,  125 mph,   923 mb,  Major Hurricane
+08/29/2005,  18:00 GMT,  31.1,   89.6,   90 mph,   948 mb,  Category 1 Hurricane
+08/30/2005,   00:00 GMT,  32.6, 89.1,   60 mph,   961 mb,  Tropical Storm
+08/30/2005, 06:00 GMT,  34.1, 88.6,   45 mph,   978 mb,  Tropical Storm
+08/30/2005, 12:00 GMT,  35.6,  88.0,   35 mph,   985 mb,  Tropical Depression
+08/30/2005,   18:00 GMT,  37.0,   87.0,   35 mph,   990 mb,  Tropical Depression
+08/31/2005,   00:00 GMT,  38.6,  85.3,   35 mph,   994 mb,  Extratropical Storm
+08/31/2005,  06:00 GMT,  40.1,  82.9,   30 mph,   996 mb,  Extratropical Storm 
